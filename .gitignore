@@ -1,4 +1,8 @@
-runs/
+.venv/
 __pycache__/
 *.pyc
-.venv/
+runs/
+*.db
+*.db-shm
+*.db-wal
+*.log
