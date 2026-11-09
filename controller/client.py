@@ -1,4 +1,4 @@
-"""Thin HTTP client over the simulator API. See docs/SIMULATOR.md for the contract."""
+"""Thin HTTP client over the simulator API. See docs/SIMULATOR.md for the contract. """
 from __future__ import annotations
 
 import time
